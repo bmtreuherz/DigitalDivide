@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/Bradley/.android/build-cache/4cc3d36c28dea6f80b57860234179539faafb2ee/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bd30ddc32173ef9dd69fe1895ce89831ef227596">
+        <dex dex="/Users/Bradley/Projects/Unity/DigitalDivide/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_0b9ff16e8f2192e2e317d2b4cbb69fe5f701c5df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Bradley/.android/build-cache/1d9f431179b006135e46ca03b1e382881624bb1a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="36e70259b99d30e8bd89f2246a70d44a53cb309f">
+        <dex dex="/Users/Bradley/Projects/Unity/DigitalDivide/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_e156ab469483c3f3747aeac0798e01ba177901ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Bradley/.android/build-cache/5f0a141860f7344b347997224a7317e9b42de02b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a008a0b3cdc09c8b37fd39fa7e112b1c5b487d50">
+        <dex dex="/Users/Bradley/Projects/Unity/DigitalDivide/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_fc174572240a35157be9f89f419d7e7f5b4ca771.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Bradley/.android/build-cache/94c08ffa25cd674e8b026c8241b79c35ef10ab70/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b434956ac497f594a9352f3aacdb5f048dc3ff39">
+        <dex dex="/Users/Bradley/Projects/Unity/DigitalDivide/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_708dda1e162fa0ca9685be292fc04cc23114aa2e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Bradley/.android/build-cache/278ca81f4a55d2d818a53d0a0f3c7de9e4c48cf7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1b85ed744e864fccf4fe6ee1c5ef16ea5a1e2fe2">
+        <dex dex="/Users/Bradley/Projects/Unity/DigitalDivide/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_ad061ac114c09b8984ac6a9bcd63b4e38be37185.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Bradley/Projects/Unity/DigitalDivide/Temp/gradleOut/libs/libprotobuf-java-nano.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcd53f117550c58490f29c2e27afca051626260d">
+        <dex dex="/Users/Bradley/Projects/Unity/DigitalDivide/Temp/gradleOut/build/intermediates/pre-dexed/release/libprotobuf-java-nano_73fc208e088649b7663a8c58e8c586e0c8ef327d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Bradley/Projects/Unity/DigitalDivide/Temp/gradleOut/libs/unity-classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="997bed8c5290bdbae5c8767ba09af501f19e1c08">
+        <dex dex="/Users/Bradley/Projects/Unity/DigitalDivide/Temp/gradleOut/build/intermediates/pre-dexed/release/unity-classes_f84198c66942c174cc20f921fe3b955f9d39d0de.jar" />
+    </item>
+
+</items>

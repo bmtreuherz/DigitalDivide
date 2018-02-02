@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/Bradley/Projects/Unity/DigitalDivide/Temp/gradleOut/build/intermediates/res/merged/release/drawable-mdpi-v4/quantum_ic_settings_white_24.png",
+        "source": "/Users/Bradley/.android/build-cache/5f0a141860f7344b347997224a7317e9b42de02b/output/res/drawable-mdpi-v4/quantum_ic_settings_white_24.png"
+    },
+    {
+        "merged": "/Users/Bradley/Projects/Unity/DigitalDivide/Temp/gradleOut/build/intermediates/res/merged/release/drawable-mdpi-v4/quantum_ic_close_white_24.png",
+        "source": "/Users/Bradley/.android/build-cache/5f0a141860f7344b347997224a7317e9b42de02b/output/res/drawable-mdpi-v4/quantum_ic_close_white_24.png"
+    },
+    {
+        "merged": "/Users/Bradley/Projects/Unity/DigitalDivide/Temp/gradleOut/build/intermediates/res/merged/release/drawable-mdpi-v4/transition.png",
+        "source": "/Users/Bradley/.android/build-cache/5f0a141860f7344b347997224a7317e9b42de02b/output/res/drawable-mdpi-v4/transition.png"
+    }
+]
